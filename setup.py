@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-setup(name='cogex-pke',
+setup(name='cogexpke',
       version='1.8.1',
       description='Python Keyphrase Extraction module',
       author='pke contributors',

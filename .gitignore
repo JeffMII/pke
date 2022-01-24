@@ -7,3 +7,8 @@ dev/
 /venv/
 /venv2/
 \.idea/
+dist
+build
+*.egg-info
+tests
+\.nojekyll
