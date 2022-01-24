@@ -1,10 +1,10 @@
 from distutils.core import setup
 
-setup(name='pke',
+setup(name='cogex-pke',
       version='1.8.1',
       description='Python Keyphrase Extraction module',
       author='pke contributors',
-      author_email='florian.boudin@univ-nantes.fr',
+      author_email='j3f9y.f@gmail.com',
       license='gnu',
       packages=['pke', 'pke.unsupervised', 'pke.supervised',
                 'pke.supervised.feature_based', 'pke.unsupervised.graph_based',
